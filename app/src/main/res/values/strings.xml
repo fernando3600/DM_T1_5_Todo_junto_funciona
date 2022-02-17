@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo junto</string>
+    <string name="TxtyBtn">Textos y Botones</string>
+    <string name="Date">Fecha</string>
+    <string name="Numero">Número decimal</string>
+    <string name="Privacity">E leído los terminos y condiciones</string>
+    <string name="WidyLay">Widgets y Layout horizontal</string>
+    <string name="LayyCont">Containers y Table layout</string>
+</resources>
